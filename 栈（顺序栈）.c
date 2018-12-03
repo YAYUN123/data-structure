@@ -7,7 +7,6 @@
 #define MAXSIZE 10
 /*
 https://blog.csdn.net/Cherubim1/article/details/80233752
-Êä³öÂÒÂë¡£¡£¡£
 */
 typedef char ElemType;
 
